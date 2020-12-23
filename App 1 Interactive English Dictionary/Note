@@ -1,0 +1,11 @@
+Interactive English Dictionary 
+
+I have created a very simple English Dictionary which will perform following task.
+-	Read JSON File (consisting of English words with meaning).
+-	Convert Json into Python dictionary {}.
+-	Take Input from user and check for meaning.
+-	If Word does not exist check for similar kind of word/suggestion.
+
+Imported 
+-	Json for reading json file.
+-	Get_close_matches from difflib for word suggestion.
